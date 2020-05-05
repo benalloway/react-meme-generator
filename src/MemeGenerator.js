@@ -10,7 +10,7 @@ class MemeGenerator extends React.Component {
 
     render(){
         return (
-            
+            <div>MemeGenerator Section</div>
         )
     }
 }
